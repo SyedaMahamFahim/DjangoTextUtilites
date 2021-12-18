@@ -1,0 +1,44 @@
+Feautures Of The Website:
+
+Change Case
+	Uppercase (Convert the text into Uppercase)
+	Lowercase (Convert the text into Lowercase)
+	Capitalize (Convert the text into Capitalize)
+	Camel Case (Convert the text into Camel Case)
+
+Word Sorting
+ 	Sort Words as Ascending order
+ 	Sort Words as Descending order
+
+Regex (Email Extrator)
+
+Numbers Sorting
+	Sort Numbers as Ascending order
+ 	Sort Numbers as Descending order
+
+Extra Space Remover
+	Remove all the extra space from the text
+
+New Line Remover
+	Remove all the new line from the text
+
+Remove Punctuations
+	Remove all the punctuations from the text
+
+Counter
+	Count the no. of letters used in the text
+
+
+Website Tools:
+	For Frontend:
+		HTML5
+		CSS
+		JavaScript
+		Bootstrap
+	Backend:
+		Python
+		Django Framework
+Website Details:
+	Developer:   Syeda Maham Fahim
+	Developed Date:   2rd March 2021.
+	Version: 1.00
